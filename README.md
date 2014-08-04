@@ -1,4 +1,4 @@
 ProgContests
 ============
 
-My prog contest submissions
+My programming contest submissions to various programming contests like Topcoder and GCJ.
