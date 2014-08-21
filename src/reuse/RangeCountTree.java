@@ -6,7 +6,7 @@ import java.util.Arrays;
  * RangeCountTree - a tree that implements range queries. Also known as a BinaryIndexedTreegi
  * Insert and Delete are O(log N);
  * Takes space (2*X+1 where X = 2^y where y is an integer, X is smallest number : such that X = 2^y >=N)
- */
+*/
 public class RangeCountTree {
 	int[] counts;
 	int N;
